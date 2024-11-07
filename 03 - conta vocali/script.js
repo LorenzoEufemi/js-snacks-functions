@@ -5,7 +5,7 @@ const word = 'javascript';
 
 // Dichiara la funzione qui.
 /**
- * Description placeholder
+ * numero vocali contenute in una stringa 
  *
  * @param {string} word
  * @returns {number}
